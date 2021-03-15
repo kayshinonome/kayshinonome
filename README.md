@@ -1,6 +1,6 @@
 # Tsuki Superior
 
-Creator Of TS/OS, a OS of pure insanity
+Creator Of TS/OS, a Multiplatform OS of pure insanity
 
 [TS/OS Nucleus](https://github.com/tsuki-superior/tsos-nucleus)
 

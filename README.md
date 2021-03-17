@@ -1,6 +1,6 @@
 # Tsuki Superior
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsuki-superior)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsuki-superior&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Creator Of TS/OS, a Multiplatform OS of pure insanity
 

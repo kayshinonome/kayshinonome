@@ -4,7 +4,7 @@
 
 [![tsuki-superior's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsuki-superior&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Creator Of TS/OS, a monolithic multiplatform os
+# Creator Of TS/OS, a monolithic multiplatform os
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-nucleus&theme=dark)](https://github.com/tsuki-superior/tsos-nucleus)
 

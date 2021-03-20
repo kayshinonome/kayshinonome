@@ -3,6 +3,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![debian](https://raw.githubusercontent.com/tsuki-superior/tsuki-superior/main/debian.png)
+
 [![HitCount](http://hits.dwyl.com/tsuki-superior/tsuki-superior.svg)](http://hits.dwyl.com/tsuki-superior/tsuki-superior)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki-superior&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)

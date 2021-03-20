@@ -1,5 +1,7 @@
 # Tsuki Superior
 
+[![HitCount](http://hits.dwyl.com/tsuki-superior/tsuki-superior.svg)](http://hits.dwyl.com/tsuki-superior/tsuki-superior)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki-superior&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![tsuki-superior's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsuki-superior&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

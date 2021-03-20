@@ -1,11 +1,9 @@
 # Tsuki Superior
 
 <!--START_SECTION:waka-->
-
 ```text
 No Activity tracked this Week
 ```
-
 <!--END_SECTION:waka-->
 
 [![HitCount](http://hits.dwyl.com/tsuki-superior/tsuki-superior.svg)](http://hits.dwyl.com/tsuki-superior/tsuki-superior)

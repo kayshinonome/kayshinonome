@@ -1,14 +1,5 @@
 # Tsuki Superior
 
-<!--START_SECTION:waka-->
-```text
-Bash       5 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.12 % 
-Makefile   5 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.58 % 
-C++        3 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
-HTML       1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-GAS        1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-```
-<!--END_SECTION:waka-->
 
 [![HitCount](http://hits.dwyl.com/tsuki-superior/tsuki-superior.svg)](http://hits.dwyl.com/tsuki-superior/tsuki-superior)
 
@@ -20,6 +11,7 @@ GAS        1 hr 1 min      █▒░░░░░░░░░░░░░░░�
 
 ## Creator Of TS/OS, a monolithic multiplatform os
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tsuki-superior)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-nucleus&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-nucleus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-toolchain&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-toolchain)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-website&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-website)

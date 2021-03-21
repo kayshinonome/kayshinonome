@@ -9,9 +9,10 @@
 
 [![tsuki-superior's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsuki-superior&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tsukisuperior&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Creator Of TS/OS, a monolithic multiplatform os
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tsukisuperior&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-nucleus&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-nucleus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-toolchain&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-toolchain)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-website&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-website)

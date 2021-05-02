@@ -10,9 +10,7 @@
 
 ## Creator Of TS/OS, a monolithic multiplatform os
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-nucleus&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-nucleus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-website&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-website)
-
-If anyone wants to be a TSDEV, and work on TS/OS. please email me at tsukisuperior@gmail.com, or DM me on discord [DiscordHub](https://discordhub.com/profile/630116229369298954)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-OS&repo=tsos-nucleus&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-nucleus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-OS&repo=tsos-website&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-website)
 
 ## [TS/OS Website](https://tsuki-superior.github.io/tsos-website/)

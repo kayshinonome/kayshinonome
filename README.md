@@ -11,6 +11,6 @@
 ## Creator Of TS/OS, a monolithic multiplatform os
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-OS&repo=tsos-nucleus&theme=dark&layout=compact)](https://github.com/TS-OS/tsos-nucleus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuki-superior&repo=tsos-website&theme=dark&layout=compact)](https://github.com/tsuki-superior/tsos-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-OS&repo=tsos-website&theme=dark&layout=compact)](https://github.com/TS-OS/tsos-website)
 
-## [TS/OS Website](https://tsuki-superior.github.io/tsos-website/)
+## [TS/OS Website](https://ts-os.github.io/tsos-website/)
